@@ -9,7 +9,7 @@
 |-------------|----------------------------------------|--------------------------------------------------|
 | 🐟 咸鱼 / 小红书 | **科研麻工**                              | 打广告、更新一些服务动态                                    |
 | 📱 WeChat    | **KYMG-3**                              | 可交流经验、供数据处理绘图等服务（非公益）              |
-| 🖥️ B站       | **KYMG-3**                              | 更新教学视频、数据处理实例等        |
+| 🖥️ B站       |[**@KYMG-3**](https://www.bilibili.com/video/BV1cTKzzCEHr/?share_source=copy_web&vd_source=d5b86642481f5d3b16cf56b2ba1b656a)                              | 更新教学视频、数据处理实例等        |
 | 🔗 GitHub    | [**@maguag**](https://github.com/maguag/XRD_Texture_Process) | 脚本与项目代码在这里分享         |
 
 
